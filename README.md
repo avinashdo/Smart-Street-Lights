@@ -25,5 +25,10 @@ problem:
 Working Process:
 
        whenever an object comes infront of the Street light it is detected by the IR sensors and it sends the signals to the Arduino board . Then the Arduino board allows power to the street lights and it will glow onlly then.
+       
+       
 
+Team Members:
+        1.Pedapati Avinash
+        2.Satyavarapu Yashwanth
 
