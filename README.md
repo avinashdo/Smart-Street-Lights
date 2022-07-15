@@ -20,8 +20,8 @@ components used
      
 problem:
 
-     when street lights are continously in the ON state it wastes a lot of power , 
-     so this project helps in reducing the wastage of electricity by implementing in low people density areas and times with low people density.
+     when street lights are continously in the ON state it wastes a lot of power , so this project helps in reducing the wastage of electricity
+     by implementing in low people density areas and times with low people density.
      
 Working Process:
 
