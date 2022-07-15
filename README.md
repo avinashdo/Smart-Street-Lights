@@ -20,11 +20,13 @@ components used
      
 problem:
 
-     when street lights are continously in the ON state it wastes a lot of power , so this project helps in reducing the wastage of electricity by implementing in low people density areas and times with low people density.
+     when street lights are continously in the ON state it wastes a lot of power , 
+     so this project helps in reducing the wastage of electricity by implementing in low people density areas and times with low people density.
      
 Working Process:
 
-       whenever an object comes infront of the Street light it is detected by the IR sensors and it sends the signals to the Arduino board . Then the Arduino board allows power to the street lights and it will glow onlly then.
+       whenever an object comes infront of the Street light it is detected by the IR sensors and it sends the signals to the Arduino board . 
+       Then the Arduino board allows power to the street lights and it will glow onlly then.
        
        
 
