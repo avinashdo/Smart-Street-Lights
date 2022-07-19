@@ -1,5 +1,5 @@
 # Smart-Street-Lights
-  Smart Street Light Project using Arduino, and IR Sensors , Bread board LED lights widely used electronics components. In this article we are going to use these sensors with the Arduino to build an amazing Smart Street light project. With smart street light system we can greatly reduce the energy cost and moreover smart street lights more efficiently manage electricity with lower chances of the automatic street light system overheating and risk of accidents is also minimized. Instead of turning ON the street lights for the entire night, we can design a low cost and efficient smart street light system using the Arduino, IR sensors and some other basic electronics components. we design a smart street light that will be turned on and off whenever there is some vehicle or object appear infront of the IR sensors for some range.
+    Smart Street Light Project using Arduino, and IR Sensors , Bread board LED lights widely used electronics components. In this article we are going to use these sensors with the Arduino to build an amazing Smart Street light project. With smart street light system we can greatly reduce the energy cost and moreover smart street lights more efficiently manage electricity with lower chances of the automatic street light system overheating and risk of accidents is also minimized. Instead of turning ON the street lights for the entire night, we can design a low cost and efficient smart street light system using the Arduino, IR sensors and some other basic electronics components. we design a smart street light that will be turned on and off whenever there is some vehicle or object appear infront of the IR sensors for some range.
 
 Working video:
 
@@ -36,7 +36,12 @@ Working Process:
 * In this project, we are using 4 IR sensors that are connected to the digital pins of the Arduino. We also use 5 LEDs that represent the streetlights, each LED       connected to the pins of the Arduino. Each IR sensor controls 2 LEDs.
 
 * whenever an object comes infront of the Street light it is detected by the IR sensors and it sends the signals to the Arduino board . 
+
 * Then the Arduino board allows power to the street lights and it will glow onlly then.
+
+* Whenever the sensor detects the object the sends the signal to the arduino and it will release the power to the LED lights and it will glow for some amount of time.
+
+* If any of the sensor detects the object then the nearby lights will glow for a few minutes.  
        
        
 Team Members:
